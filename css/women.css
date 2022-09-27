@@ -1,0 +1,146 @@
+.navbar-nav{
+  text-align:justify;
+}
+.navbar{
+  background-color:rgb(27, 27, 24);
+}
+.dropdown:hover .dropdown-menu{
+  background-color: rgb(70, 64, 56);
+  display: block;
+}
+.nav-link{
+  color:white 
+}
+.dropdown-menu-item{
+  text-decoration:none;
+  color: rgb(255, 253, 253);
+}
+.brandlogo{
+  width:30px;
+}
+.sub{
+  text-align:center;
+}
+body {
+  background-color: rgb(113, 139, 139);
+  margin: 0;
+  font-family: open sans-serif;
+}
+a:hover{
+  background-color: bisque;
+}
+.nav-link{
+  color: #ffffff;
+}
+form{
+  background-color:rgb(30, 71, 92) ;
+  border-radius: 5px;
+}
+.btn{
+  background-color:rgb(5, 121, 189) ;
+  color: rgb(255, 255, 255) 
+}
+.logo{
+  width:100% ;
+  height: 95%;
+}
+.c1 , .c2 , .c3{
+  margin:auto;
+  max-height: 450px;
+  width: max-content;
+  width:100%;
+}
+.border{
+  border-radius: 10px;
+}
+h5{
+  text-align: center;
+}
+.card-img{
+  height: 80%;
+  margin-left: 40%;
+}
+.container{
+  border-radius: 20px;
+}
+.card{
+  width: 18rem;
+  margin-left: 2rem;
+}
+.card:hover{
+  transform: scale(1.2) 
+}
+.btn{
+  text-align: center;
+}
+.banner{
+  width: 100%;
+}
+.banner1{
+  width: 100%;
+  height: 450px;
+}
+.promo{
+  width:19%;
+  height:110px ;
+}
+.icon{
+  padding: 3px;
+  padding-bottom:0;
+}
+.lang{
+  color: #ffffff;
+  margin-right: 3px;
+  padding-top: 10px;
+}
+hr.divider {
+  padding: 2px;
+  border: none;
+  border-top: 5px double #fafffc;
+  border-bottom: 5px double #fafffc;
+  color: #fafffc;
+  text-align: center;
+  margin: 10px;
+}
+hr.divider:after {
+  content: "★ ★ ★ ★ ★";
+  display: inline-block;
+  position: relative;
+  top: -0.1em;
+  font-size: 1.75em;
+  padding: 0 0.5em;
+  font-weight: normal;
+}
+.tablefooter{
+  background-color: rgb(29, 26, 26);
+  color: #ffffff;
+}
+.tablenewsletter{
+  background-color: #1c3325;
+  width: fit-content;
+  margin-left: 45px;
+  border-radius: 5px;
+}
+#foo {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+.contact {
+  padding-top: 20px;
+  color: #ffffff;
+}
+.card-img-top{
+  margin:auto;
+  text-align: center;
+  height: 230px;
+  width:200px ;
+}
+.footerlogo{
+  width:250px;
+  margin-left: 120px;
+}
+.footer{
+  text-align: center;
+  color: #fafffc;
+}

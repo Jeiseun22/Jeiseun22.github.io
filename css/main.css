@@ -1,0 +1,178 @@
+.navbar{
+  background-color:rgb(27, 27, 24);
+}
+.dropdown:hover .dropdown-menu{
+  background-color: rgb(100, 98, 96);
+  display: block;
+}
+.brandlogo{
+  width:30px;
+}
+.dropdown-menu-item{
+  text-decoration: none;
+  color: aliceblue;
+}
+body {
+  background-color: rgb(46, 47, 48);
+  margin: 0;
+  font-family: open sans-serif;
+}
+a:hover{
+  background-color: bisque;
+}
+.nav-link{
+  color: #ffffff;
+}
+.btn{
+  background-color:rgb(5, 121, 189) ;
+  color: rgb(255, 255, 255) 
+}
+.logo{
+  padding-top: 20px;
+  margin:auto;
+  width:100%;
+}
+.deals{
+  width:100%;
+  height: 65%;
+}
+.hr{
+  background-color:rgb(231, 216, 219);
+  padding-bottom: 20px;
+  padding-top: 10px;
+}
+.mt{
+  color: antiquewhite;
+  text-align: center;
+}
+.mt2{
+  color: antiquewhite;
+  text-align: center;
+  margin-right: 400px;
+}
+.material-icons{
+  color: rgb(127, 129, 16);
+}
+.d-flex{
+  padding-right: 25px;
+}
+h2{
+  color: aliceblue;
+}
+h4{
+  color:rgb(187, 199, 135) 
+}
+h3{
+  color: aliceblue;
+}
+h5{
+  color: rgb(213, 224, 203);
+}
+.topbrand{
+  height:150PX;
+  margin-top: 0%;
+  margin-bottom:0;
+}
+.intro{
+  margin-top:20px ;
+  margin-bottom: 15px;
+  text-align:center;
+  color: rgb(237, 240, 229);
+}
+.help {
+  color: #f8ffff;
+}
+.hr-theme-slash-2 {
+  display: flex;
+  padding-top: 20px;
+}
+.hr-line {
+  width:100%;
+  position:relative;
+  margin:15px;
+  border-bottom:3px solid #000;
+}
+.hr-icon {
+  position: relative;
+  top: 3px;
+  color: #f8ffff;
+}
+.c1 , .c2 , .c3{
+  margin:auto;
+  max-height: 700px;
+  width: max-content;
+  width:100%;
+  padding-bottom: 30px;
+}
+.cc1 , .cc2 , .cc3{
+  margin:auto;
+  height: 100px;
+  width: max-content;
+  width:20%;
+}
+.footer{
+  text-align: center;
+  color:rgb(138, 179, 214);
+}
+.slides{
+  width:40%;
+}
+.tablefooter{
+  background-color: rgb(29, 26, 26);
+}
+.tablenewsletter {
+  background-color: #1c3325;
+  width: fit-content;
+  border-radius: 5px;
+  margin-left: 45px;
+}
+p2{
+  color: aliceblue;
+}
+p2:hover{
+  background-color: rgb(53, 77, 77);
+}
+.accord{
+  margin-top: 40px;
+  text-align: center;
+}
+p{
+  color: #fafffc;
+}
+.footer{
+  text-align: center;
+  color: #fafffc;
+}
+hr.divider {
+  padding: 2px;
+  border: none;
+  border-top: 5px double #fafffc;
+  border-bottom: 5px double #fafffc;
+  color: #fafffc;
+  text-align: center;
+  margin: 10px;
+}
+hr.divider:after {
+  content: "★ ★ ★ ★ ★";
+  display: inline-block;
+  position: relative;
+  top: -0.1em;
+  font-size: 1.75em;
+  padding: 0 0.5em;
+  font-weight: normal;
+}
+.footerlogo{
+  width:250px;
+  margin-left: 120px;
+}
+#foo {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+.index {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 1;
+}

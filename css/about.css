@@ -1,0 +1,141 @@
+.navbar-nav{
+  text-align:justify;
+}
+.navbar-toggler{
+  color: aliceblue;
+}
+.navbar{
+  background-color:rgb(27, 27, 24);
+}
+.nav-link{
+  color:white 
+}
+.dropdown:hover .dropdown-menu{
+  background-color: rgb(70, 64, 56);
+  display: block;
+}
+.sub{
+  text-align:center;
+}
+.brandlogo{
+  width:30px;
+}
+body {
+  background-color:  rgb(46, 47, 48);
+  margin: 0;
+  font-family: open sans-serif;
+}
+p2{
+  color: aliceblue;
+}
+a:hover{
+  background-color: bisque;
+}
+.nav-link{
+  color: #ffffff;
+}
+.dropdown-menu-item{
+  text-decoration:none;
+  color: rgb(255, 253, 253);
+}
+.btn{
+  background-color:rgb(5, 121, 189) ;
+  color: rgb(255, 255, 255) 
+}
+h1,h3,h5{
+  text-align: center;
+}
+.tablenewsletter{
+  background-color: #1c3325;
+  width: fit-content;
+  border-radius: 5px;
+  margin-left: 45px;
+}
+#foo {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+.contact {
+  padding-top: 20px;
+  color: #ffffff;
+}
+.tablefooter{
+  background-color: rgb(29, 26, 26);
+  color: #ffffff;
+}
+hr.divider {
+  padding: 2px;
+  border: none;
+  border-top: 5px double #fafffc;
+  border-bottom: 5px double #fafffc;
+  color: #fafffc;
+  text-align: center;
+  margin: 10px;
+}
+hr.divider:after {
+  content: "★ ★ ★ ★ ★";
+  display: inline-block;
+  position: relative;
+  top: -0.1em;
+  font-size: 1.75em;
+  padding: 0 0.5em;
+  font-weight: normal;
+}
+.footerlogo{
+  width:250px;
+  margin-left: 120px;
+}
+.footer{
+  text-align: center;
+  color: #fafffc;
+}
+.us{
+  width: 250px;
+}
+.card{
+  width: 18rem;
+  padding: 1rem;
+}
+.card-title{
+  text-align: center;
+}
+.card-img-top{
+  height: 350px;
+}
+.container{
+  background-color: #f1f1f1;
+  border-style: double;
+}
+.about{
+  margin-right: auto;
+  margin-left: auto;
+  display:flex;
+  justify-content: center;
+  padding-top: 20px;
+}
+.aboutus{
+  font-size:100px;
+  padding: 30px;
+  color: aliceblue;
+}
+.defineaboutus{
+  padding: 30px;
+  color: aliceblue;
+}
+hr.rounded {
+  border-top: 8px solid #bbb;
+  border-radius: 5px;
+  margin-top: 100px;
+}
+.developers{
+  font-size: 70px;
+  padding-bottom: 50px;
+  color: aliceblue;
+}
+#foo {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  z-index: 1;
+}

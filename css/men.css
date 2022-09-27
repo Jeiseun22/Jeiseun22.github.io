@@ -1,0 +1,130 @@
+.navbar{
+  background-color:rgb(27, 27, 24);
+}
+.dropdown:hover .dropdown-menu{
+  background-color: rgb(100, 98, 96);
+  display: block;
+}
+.brandlogo{
+  width:30px;
+}
+.dropdown-menu-item{
+  text-decoration: none;
+  color: aliceblue;
+}
+body {
+  background-color: rgb(46, 47, 48);
+  margin: 0;
+  font-family: open sans-serif;
+}
+a:hover{
+  background-color: bisque;
+}
+.nav-link{
+  color: #ffffff;
+}
+.btn{
+  background-color:rgb(5, 121, 189) ;
+  color: rgb(255, 255, 255) 
+}
+.logo{
+  width:100% ;
+  height: 95%;
+}
+h5{
+  text-align: center;
+}
+.c1 , .c2 , .c3{
+  margin:auto;
+  max-height: 450px;
+  width: max-content;
+  width:100%;
+}
+.border{
+  border-radius: 10px;
+}
+.card-img{
+  height: 95%;
+  margin-left: 40%;
+}
+.container{
+  border-radius: 20px;
+}
+.card{
+  width: 18rem;
+  margin-left: 2rem;
+}
+.card:hover{
+  transform: scale(1.2) 
+}
+.btn{
+  text-align: center;
+}
+.banner{
+  width: 100%;
+}
+.banner1{
+  width: 100%;
+  height: 450px;
+}
+.promo{
+  width:19%;
+  height:110px ;
+}
+.icon{
+  padding: 3px;
+  padding-bottom: 0;
+}
+.brandlogo{
+  width:30px;
+}
+.lang{
+  color: #ffffff;
+  margin-right: 3px;
+  padding-top: 10px;
+}
+hr.divider {
+  padding: 2px;
+  border: none;
+  border-top: 5px double #fafffc;
+  border-bottom: 5px double #fafffc;
+  color: #fafffc;
+  text-align: center;
+  margin: 10px;
+}
+hr.divider:after {
+  content: "★ ★ ★ ★ ★";
+  display: inline-block;
+  position: relative;
+  top: -0.1em;
+  font-size: 1.75em;
+  padding: 0 0.5em;
+  font-weight: normal;
+}
+.tablefooter {
+  background-color: rgb(29, 26, 26);
+  color: #ffffff;
+}
+.tablenewsletter{
+  background-color: #1c3325;
+  width: fit-content;
+  border-radius: 5px;
+  margin-left: 45px;
+}
+#foo {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+.contact {
+  padding-top: 20px;
+  color: #ffffff;
+}
+.footerlogo{
+  width:250px;
+  margin-left: 120px;
+}
+.footer{
+  text-align: center;
+  color: #fafffc;
+}
